@@ -1,0 +1,9 @@
+/* import any google fonts you would like to use here */
+
+
+:root{
+    /* add any css variables to this selector */
+}
+
+/* basic css reset */
+*{ box-sizing: border-box; margin:0; padding:0; }
